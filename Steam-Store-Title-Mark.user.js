@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Steam Store title mark
+// @name         Steam Store Title Mark
 // @description  mark language support & card_info & positive percentage with game title
 // @author       desc_inno
-// @namespace    https://github.com/desc70865/Steam-Store-title-mark
-// @supportURL   https://github.com/desc70865/Steam-Store-title-mark/issues
-// @updateURL    https://github.com/desc70865/Steam-Store-title-mark/raw/master/Steam-Store-title-mark.user.js
+// @namespace    https://github.com/desc70865/Steam-Store-Title-Mark
+// @supportURL   https://github.com/desc70865/Steam-Store-Title-Mark/issues
+// @updateURL    https://github.com/desc70865/Steam-Store-Title-Mark/raw/master/Steam-Store-Title-Mark.user.js
 // @version      0.2
 // @icon         https://store.steampowered.com/favicon.ico
 // @match        https://store.steampowered.com/app/*
